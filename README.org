@@ -4,5 +4,7 @@
 #+PROPERTY: header-args:python :session *shell cryptokasten-template-python-usage python* :results silent raw
 #+OPTIONS: ^:nil
 
+[file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
 ** System environment
 ** References
